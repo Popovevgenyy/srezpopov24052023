@@ -1,0 +1,17 @@
+.navbar-colors {
+    color: white;
+}
+.button-primary {
+	text-decoration: none;
+	display: inline-block;
+	margin: 10px;
+	color: white;
+	box-shadow: 0 0 0 2px white;
+	padding: 20px 0;
+    width: 150px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    position: relative;
+    overflow: hidden;
+}
